@@ -23,10 +23,11 @@
 
 - stat the server
 
-`node server`
+`node server > server.log`
 
 
 ### Readme:
 - Official website: https://js.wiki/
 - Instalation : https://docs.requarks.io/install/linux
 - Github source : https://github.com/Requarks/wiki
+- nginx Setup : https://www.vultr.com/docs/install-wiki-js-with-node-js-postgresql-and-nginx-on-ubuntu-20-04-lts/
